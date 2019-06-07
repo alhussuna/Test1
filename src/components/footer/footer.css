@@ -1,0 +1,33 @@
+.footerclass {
+	background-color:#ff8533;
+	height:8%;
+	position:fixed;
+	bottom:1px;
+	width:100%;
+}
+
+.contactus {
+	color:white;
+	font-size: 1.5em;
+}
+a {
+	text-decoration: none;
+}
+
+@media screen and (max-width: 400px) {
+.footerclass {
+	background-color:#ff8533;
+	height:8%;
+	position:fixed;
+	bottom:1px;
+	width:100%;
+}
+
+.contactus {
+	color:white;
+	font-size: 1em;
+}
+a {
+	text-decoration: none;
+}
+}
