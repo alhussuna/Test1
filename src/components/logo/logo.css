@@ -47,7 +47,8 @@
 	width:80px;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (min-device-width: 200px)
+and (max-device-width : 667px) {
 .banner {
 	margin:0;
 	background-color: #ff8533;
